@@ -1,2 +1,2 @@
 # oraclebi
-oraclebi rox
+oraclebi
